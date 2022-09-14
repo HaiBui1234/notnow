@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:padding="7dp"
+        android:layout_margin="7dp"
+        android:background="#4CAF50">
+        <TextView
+            android:id="@+id/tvloaithu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tiền Điện"
+            android:textSize="20dp"
+            android:layout_weight="4"/>
+        <TextView
+            android:id="@+id/namethat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ok"
+            android:layout_weight="4"
+            android:textSize="20dp"/>
+        <ImageView
+            android:id="@+id/imgloaithuEdit1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_edit"
+            android:layout_weight="1"/>
+        <ImageView
+            android:id="@+id/imgloaithuDelete1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_delete"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

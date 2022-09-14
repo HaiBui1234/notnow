@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.fragmentGioiThieu.fragmentGioiThieuz">
+   <androidx.viewpager.widget.ViewPager
+       android:id="@+id/viewPagerslide"
+       android:layout_width="match_parent"
+       android:layout_height="220dp"/>
+    <me.relex.circleindicator.CircleIndicator
+        android:id="@+id/cirslide"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BÙI QUANG HẢI PH28562"
+        android:textSize="30dp"
+        android:textColor="#FF5722"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ASSIGNMENT"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="#FF5722"/>
+
+
+</LinearLayout>

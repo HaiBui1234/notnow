@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".activityHello.login"
+    android:background="@drawable/phongcanhanime">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QUẢN LÝ THU CHI"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:textColor="#1F4690"/>
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/edttk"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="  Tên tài khoản"
+        android:background="@drawable/edit"/>
+
+    <EditText
+        android:drawableRight="@drawable/ic_action_pass"
+        android:id="@+id/edtmk"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edit"
+        android:hint="  Mật Khẩu" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:weightSum="10">
+        <CheckBox
+            android:textColor="#A1FF0000"
+            android:id="@+id/ckghinho"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Remember me"
+            android:layout_marginLeft="30dp"
+            android:textSize="16dp"
+            android:layout_weight="5"/>
+        <TextView
+            android:id="@+id/tvMaPin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Forgot password"
+            android:textColor="#A1FF0000"
+            android:textSize="16dp"
+            android:layout_weight="5"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10">
+        <Button
+            android:layout_weight="5"
+            android:id="@+id/btnlogin"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:text="Đăng Nhập"
+            android:background="@drawable/hover"/>
+        <Button
+            android:layout_weight="5"
+            android:id="@+id/btndk"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:text="Đăng Ký"
+            android:background="@drawable/hover"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activityHello.singUp"
+    android:gravity="center_horizontal"
+    android:background="@drawable/phongcanhanime">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QUẢN LÝ THU CHI"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:textColor="#1F4690"/>
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/edttk1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="  Tên tài khoản"
+        android:background="@drawable/edit"/>
+    <EditText
+        android:id="@+id/edtmk1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="  Mật Khẩu"
+        android:background="@drawable/edit"/>
+    <Button
+        android:id="@+id/btndk1"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đăng Ký"
+        android:textSize="20dp"
+        android:background="@drawable/hover"/>
+</LinearLayout>

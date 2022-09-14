@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.162" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/drawable-anydpi/ic_action_pro.xml" value="0.1915" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/drawable/bogoc.xml" value="0.162" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/drawable/bogoctext.xml" value="0.1365" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/drawable/edit.xml" value="0.2095" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/drawable/hover.xml" value="0.2095" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_halo.xml" value="0.26403985507246375" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_hello.xml" value="0.26403985507246375" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_helloactivity.xml" value="0.26403985507246375" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_not.xml" value="0.1265625" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/activity_sing_up.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/addkhoanthu.xml" value="0.26403985507246375" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/addkhoanthuthu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/addloaithu.xml" value="0.264" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_first.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_gioi_thieu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoan_chi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoan_thu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoan_thufragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoang_chi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoang_chiz.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoangthu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_khoangthuz.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_loai_chi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_loai_thu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_second.xml" value="0.264" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/fragment_thong_ke.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/header_layout.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/khoanthuadapter.xml" value="0.26403985507246375" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/loaithuadapter.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/slideshow.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/layout/thongkelayoutitem.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/USER/Documents/AndroidStudioProjects/Assignment_buiquanghaiph28562/app/src/main/res/menu/menuthuchi.xml" value="0.2708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
